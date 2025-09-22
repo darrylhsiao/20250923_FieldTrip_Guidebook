@@ -1,0 +1,1 @@
+﻿positionForPages[48]={page:48,positions:[{word:"5. Geological Map (Lo \& Ho, 2012) ",left:0.151018,top:0.096873,width:0.411940,height:0.020985},{word:" ",left:0.171168,top:0.096608,width:0.007453,height:0.021137},{word:" ",left:0.839313,top:0.898760,width:0.005040,height:0.015778},{word:"47",left:0.954633,top:0.977948,width:0.016798,height:0.015999}]};

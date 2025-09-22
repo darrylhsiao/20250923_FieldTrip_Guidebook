@@ -1,0 +1,1 @@
+﻿positionForPages[1]={page:1,positions:[{word:"Field Trip Guidebook ",left:0.220554,top:0.351499,width:0.574212,height:0.047335},{word:"2025/09/23 ",left:0.408268,top:0.797411,width:0.193744,height:0.031556}]};
